@@ -118,7 +118,7 @@ def main():
 			    hit = True
                                    
 			    break
-                        #quits game 
+                        #checks if you have missed
                                
 			elif (y > 31):
 				s.miss()
