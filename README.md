@@ -1,2 +1,2 @@
 # Terminal_Hackathon
-Terminal Game made for workday hackathon, we had 3hrs to make it 
+Had to make a terminal game for a hackathon within 3hrs.
